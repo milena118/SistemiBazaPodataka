@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\bin\Debug\net7.0\StambenaZgradaLibrary.deps.json
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\bin\Debug\net7.0\StambenaZgradaLibrary.dll
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\bin\Debug\net7.0\StambenaZgradaLibrary.pdb
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.dll
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\refint\StambenaZgradaLibrary.dll
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\StambenaZgradaLibrary.pdb
+C:\Users\Administrator\Desktop\BazePodataka\StambenaZgradaLibrary\obj\Debug\net7.0\ref\StambenaZgradaLibrary.dll
